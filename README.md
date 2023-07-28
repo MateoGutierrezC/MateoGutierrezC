@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Passionate frontend developer aspiring to become full stack. Eager to learn new technologies and contribute to diverse projects. Ready to code and collaborate!<br>🔬 Learning new technologies...<br>
+Passionate frontend developer aspiring to become full stack. Eager to learn new technologies and contribute to diverse projects. Ready to code and collaborate!
+
+<br>🔬 Learning new technologies...<br>
+<br>✍️ Frontend Oracle Next Education<br>
+
 
 
 ## 🌐 Socials:
